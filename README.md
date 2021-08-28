@@ -1,7 +1,6 @@
 # Kaheet
 # Original made by pxtrez
-
-[![made with love](https://img.shields.io/badge/made%20with-%F0%9F%92%99-blue?style=for-the-badge)
+![made with love](https://img.shields.io/badge/made%20with-%F0%9F%92%99-blue?style=for-the-badge)
 
 ### Cheat
 
